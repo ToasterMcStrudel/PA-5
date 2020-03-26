@@ -1,0 +1,21 @@
+﻿  Player.cpp
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(243,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(222,17): warning C4101:  'delete1': unreferenced local variable
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(274,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(403,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Yugioh.cpp
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(406,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(243,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(222,17): warning C4101:  'delete1': unreferenced local variable
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(274,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(403,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(406,21): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Yugioh.cpp(61,45): warning C4806:  '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(243,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(222,17): warning C4101:  'delete1': unreferenced local variable
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(274,1): warning C4805:  '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(403,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\train\source\repos\PA-5\PA5.mirrion\PA5.mirrion\Player.h(406,21): warning C4018:  '<': signed/unsigned mismatch
+  PA5.mirrion.vcxproj -> C:\Users\train\source\repos\PA-5\PA5.mirrion\Debug\PA5.mirrion.exe
